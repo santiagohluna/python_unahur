@@ -7,3 +7,5 @@ Comentario de varias líneas
 """
 
 print("Hola Mundo!")
+
+print(2+2)
