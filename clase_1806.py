@@ -29,3 +29,4 @@ print(a+'\n\t'+a)
 # (1) un identificador único (id), 
 # (2) un tipo de dato,
 # (3) un valor.
+# Las variables en Python no guardan los datos.
