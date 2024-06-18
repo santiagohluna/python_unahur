@@ -28,3 +28,4 @@ print(a+'\n\t'+a)
 ## Por cada dato que aparece en un programa, Pyhton crea un objeto que lo contiene y cada objeto tiene:
 # (1) un identificador único (id), 
 # (2) un tipo de dato,
+# (3) un valor.
